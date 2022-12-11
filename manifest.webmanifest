@@ -1,0 +1,16 @@
+{
+    "background_color": "black",
+    "description": "Clicker, w którym klikasz na kasztana",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "kasztan-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "Kasztan Clicker",
+    "short_name": "Kasztan",
+    "start_url": "index.html"
+  }
+  
